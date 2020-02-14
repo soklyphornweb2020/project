@@ -5,7 +5,7 @@ const INPUT_HTML = document.querySelector("#input");
 const CHECK_STYLE = "fa-check-circle";
 const UNCHECK_STYLE = "fa-circle-thin";
 const LINE_THOUGH_STYLE = "lineThrough";
-
+//show date
 const options = {
   weekday: "long",
   year: "numeric",
